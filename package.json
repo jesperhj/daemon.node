@@ -14,7 +14,7 @@
   ],
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/indexzero/daemon.node.git" 
+    "url" : "http://github.com/jesperhj/daemon.node.git" 
   },
   "devDependencies": {
     "vows": "0.6.x"
